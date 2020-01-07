@@ -1,0 +1,7 @@
+
+*.bin
+*.ini
+*.json
+*.png
+*.log
+*.uproject
