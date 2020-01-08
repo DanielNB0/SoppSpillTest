@@ -5,3 +5,11 @@
 *.png
 *.log
 *.uproject
+*.uasset
+*.umap
+*.upackage
+*.db
+*.db-wal
+*.utrans
+*.runtime-xml
+*.dmp
